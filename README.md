@@ -7,7 +7,7 @@
 ## Placement Interviews
 * [2020-21]()
 
-## Wiriting you interview experience
+## Writing you interview experience
 * [Leetcode interview experience](https://leetcode.com/discuss/interview-experience)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/write-interview-experience/)
 * [Placement Portal](http://placements.mnit.ac.in/interview-experiences)
