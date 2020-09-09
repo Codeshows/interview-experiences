@@ -1,4 +1,4 @@
-# Interview Experiences
+# interview-experiences
 **This repository is created with the aim to provide students with interview experinces of there fellow mates and seniors.**
 
 ## Intenship Interviews
