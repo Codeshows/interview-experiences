@@ -10,6 +10,8 @@
 ## Wiriting you interview experience
 * [Leetcode interview experience](https://leetcode.com/discuss/interview-experience)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/write-interview-experience/)
+* [Placement Portal](http://placements.mnit.ac.in/interview-experiences)
+* [Medium](https://help.medium.com/hc/en-us/articles/225168768-Write-a-post)
 
 ## Contribute your interview experience
 * Fork this [repository](https://github.com/Codeshows/interview-experiences/).
