@@ -2,7 +2,7 @@
 **This repository is created with the aim to provide students with interview experinces of there fellow mates and seniors.**
 
 ## Intenship Interviews
-* [2020-21](/Internship/2020-21/)
+* [2020-21](Internship/2020-21/)
 
 ## Placement Interviews
 * [2020-21]()
